@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610633942 source:c:\users\kanat\desktop\quiz\eliz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
